@@ -35,10 +35,12 @@ To run the examples, you need to have Python installed along with the respective
 
 Install TensorFlow:
 
+```sh
 pip install tensorflow
 
 Install PyTorch:
 
+```sh
 pip install torch
 
 
@@ -48,6 +50,7 @@ Each folder contains Python scripts that demonstrate various tensor operations. 
 TensorFlow Examples
 Navigate to the tensorflow directory and run the desired example:
 
+```sh
 cd tensorflow
 python tensor_operations.py
 
@@ -55,6 +58,7 @@ python tensor_operations.py
 PyTorch Examples
 Navigate to the pytorch directory and run the desired example:
 
+```sh
 cd pytorch
 python tensor_operations.py
 
